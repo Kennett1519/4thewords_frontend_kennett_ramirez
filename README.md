@@ -19,10 +19,10 @@ Antes de comenzar, asegurarse de tener instalado:
 ## Instalación
 
 1. Clonar el repositorio del frontend:
-   git clone https://github.com/tu-usuario/leyendas-frontend.git
+   git clone https://github.com/Kennett1519/4thewords_frontend_kennett_ramirez.git
 
 2. Acceder a la carpeta del proyecto:
-   cd leyendas-frontend
+   cd 4thewords_frontend_kennett_ramirez
 
 3. Instalar las dependencias:
    npm install
