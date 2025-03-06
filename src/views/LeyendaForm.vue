@@ -79,9 +79,9 @@ export default {
     let imagenOriginal = "";
 
     const categorias = [
-      { value: "Mito", label: "Mito" },
-      { value: "Leyenda", label: "Leyenda" },
-      { value: "Cuento", label: "Cuento" }
+      { value: "Magia", label: "Magia" },
+      { value: "Religiosa", label: "Religiosa" },
+      { value: "Topográfica", label: "Topográfica" }
     ];
 
     const provincias = [
